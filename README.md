@@ -1,3 +1,7 @@
+# [DEPRECATED]
+This repo is now deprecated.  The functionality of this plugin was merged into https://github.com/SkyrimAlternativeDevelopers/SkyrimVRTools in a collaborative effort.  
+
+
 # SKSE-VRInputPlugin
 Skyrim Script Extender Plugin to give mods access to VR controller input data.  Be warned this is currently an untested alpha version!
 
